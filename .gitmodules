@@ -1,0 +1,3 @@
+[submodule "MLP_model"]
+	path = MLP_model
+	url = https://github.com/chopralab/candiy_spectrum.git
